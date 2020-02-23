@@ -1,0 +1,13 @@
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\bin\Debug\netstandard2.0\XamarinExample1.deps.json
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\bin\Debug\netstandard2.0\XamarinExample1.dll
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\bin\Debug\netstandard2.0\ref\XamarinExample1.dll
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\bin\Debug\netstandard2.0\XamarinExample1.pdb
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\obj\Debug\netstandard2.0\XamarinExample1.csprojAssemblyReference.cache
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\obj\Debug\netstandard2.0\XamarinExample1.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\obj\Debug\netstandard2.0\XamarinExample1.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\obj\Debug\netstandard2.0\XamarinExample1.dll
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\obj\Debug\netstandard2.0\ref\XamarinExample1.dll
+C:\Users\Toshiba\source\repos\XamarinExample1\XamarinExample1\XamarinExample1\obj\Debug\netstandard2.0\XamarinExample1.pdb
